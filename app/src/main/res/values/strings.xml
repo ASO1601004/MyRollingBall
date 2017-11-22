@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My RollingBall</string>
+    <string name="ganbare">がんばれ！</string>
+    <string name="sippai">失敗</string>
+    <string name="seiko">成功</string>
+</resources>
